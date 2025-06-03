@@ -14,7 +14,7 @@
     "OWNERS": {
       "description": "owner number",
       "required": true,
-      "value": "917849917350"
+      "value": "79872374325"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
@@ -29,12 +29,12 @@
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "821TBZKa#sBy-8vFJU7W1TQlMcKwfHckwbgbJfcYd9z4w0Euoc1E"
     },
     "MODE": {
       "description": "mode public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
@@ -59,7 +59,7 @@
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "HOBBIES": {
       "description": "owners hobby for intro card",
